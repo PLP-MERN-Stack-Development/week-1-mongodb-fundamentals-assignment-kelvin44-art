@@ -1,0 +1,4 @@
+To run the Database, one needs to install the MongoDb Compass which offers a Graphic User Interface for displaying the information in a presentable manner. Another software that one needs is the visual code or the mongodb shell and extablish a connection between the visual studio and the mongodb compass.
+In my case, i used the mongodb Shell in the compass to make interract and make necesaary changes to the changes.
+The Mongodb compass does not require any additional configuration once it it is started. just create a database with the name PLP_week_one assignment and a collection name Books, and click on the shell at top-left corner
+run the commands which are in the queries.js and the data should be displayed based on the instruction indicated in the comments.
